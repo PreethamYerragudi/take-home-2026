@@ -1,0 +1,191 @@
+{
+  "name": "Men's Carefree Unshrinkable Tee, Traditional Fit, Henley",
+  "price": {
+    "price": 29.95,
+    "currency": "USD",
+    "compare_at_price": null
+  },
+  "description": "Made of soft cotton that resists wrinkles, shrinking, fading and pilling, our resilient henley keeps its shape wash after wash.",
+  "key_features": [
+    "Durable double-needle stitching.",
+    "Straight hem can be worn tucked or untucked.",
+    "Comfortable enough for everyday wear.",
+    "Tagless printed label for comfort.",
+    "Soft jersey-knit taping on neck seam.",
+    "Imported.",
+    "Traditional Fit: Relaxed through the chest, sleeve and waist.",
+    "Ribbed trim is 90% cotton/10% Lycra® elastane.",
+    "100% jersey-knit cotton.",
+    "Double ring-spun fabric fights shrinkage, wrinkles, fading and pilling.",
+    "Built for comfort, the fabric gets even softer the more you wash and dry it.",
+    "Machine wash and dry."
+  ],
+  "image_urls": [
+    "https://cdni.llbean.net/is/image/wim/224626_0_44",
+    "https://cdni.llbean.net/is/image/wim/224626_0_45",
+    "https://cdni.llbean.net/is/image/wim/224626_0_46",
+    "https://cdni.llbean.net/is/image/wim/224626_0_47",
+    "https://cdni.llbean.net/is/image/wim/224626_0_48",
+    "https://cdni.llbean.net/is/image/wim/224626_1_41",
+    "https://cdni.llbean.net/is/image/wim/224626_1176_41",
+    "https://cdni.llbean.net/is/image/wim/224626_36814_41",
+    "https://cdni.llbean.net/is/image/wim/224626_1207_41",
+    "https://cdni.llbean.net/is/image/wim/224626_38221_41",
+    "https://cdni.llbean.net/is/image/wim/224626_292_41",
+    "https://cdni.llbean.net/is/image/wim/224626_464_41",
+    "https://cdni.llbean.net/is/image/wim/224626_55_41"
+  ],
+  "video_url": null,
+  "category": {
+    "name": "Apparel & Accessories > Clothing > Shirts & Tops"
+  },
+  "brand": "L.L.Bean",
+  "colors": [
+    "Black",
+    "Charcoal Heather",
+    "Delta Blue",
+    "Gray Heather",
+    "Lake",
+    "Navy Blue",
+    "Soft Spruce",
+    "White"
+  ],
+  "variants": [
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Black"
+        }
+      ],
+      "sku": "0ATH210002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_1_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Charcoal Heather"
+        }
+      ],
+      "sku": "0ATH290002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_1176_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Delta Blue"
+        }
+      ],
+      "sku": "0ATH201002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_36814_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Gray Heather"
+        }
+      ],
+      "sku": "0ATH212002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_1207_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Lake"
+        }
+      ],
+      "sku": "1000264614",
+      "price": {
+        "price": 24.99,
+        "currency": "USD",
+        "compare_at_price": 29.95
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_55_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Navy Blue"
+        }
+      ],
+      "sku": "0ATH216002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_38221_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "Soft Spruce"
+        }
+      ],
+      "sku": "1000223642",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_292_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    },
+    {
+      "options": [
+        {
+          "name": "Color",
+          "value": "White"
+        }
+      ],
+      "sku": "0ATH280002",
+      "price": {
+        "price": 29.95,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": true,
+      "image_url": "https://cdni.llbean.net/is/image/wim/224626_464_41",
+      "url": "https://www.llbean.com/llb/shop/40645?page=carefree-unshrinkable-teetraditional-fit-henley"
+    }
+  ]
+}

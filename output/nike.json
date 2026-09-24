@@ -1,0 +1,330 @@
+{
+  "name": "Nike Air Force 1 '07 LV8 Men's Shoes",
+  "price": {
+    "price": 76.99,
+    "currency": "GBP",
+    "compare_at_price": 109.99
+  },
+  "description": "Comfortable, durable and timeless—it's number one for a reason. Classic '80s construction, a subtle platform and a blend of smooth synthetic and peached leathers combine for iconic streetwear style.",
+  "key_features": [
+    "The leather upper with a perforated toe box is breathable and comfortable.",
+    "Nike Air unit provides lightweight cushioning.",
+    "Rubber outsole with classic pivot circles delivers traction and durability.",
+    "Low-cut silhouette",
+    "Padded collar",
+    "Foam midsole"
+  ],
+  "image_urls": [
+    "https://static.nike.com/a/images/t_default/6a4d2051-1fee-4ce0-aba7-5de42641dae2/NIKE+AIR+FORCE+1+%2707+LV8.png",
+    "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+    "https://static.nike.com/a/images/t_default/6888cdd1-346f-4136-a14b-7412f920419c/NIKE+AIR+FORCE+1+%2707+LV8.png",
+    "https://static.nike.com/a/images/t_default/c90f7949-b685-485e-8602-23f1d079cd3a/AIR+FORCE+1+%2707+WB.png",
+    "https://static.nike.com/a/images/t_default/057c2bbd-d065-44eb-913f-51dd4f98d680/AIR+FORCE+1+%2707.png",
+    "https://static.nike.com/a/images/t_default/5daa00d9-afae-4125-a95c-fc71923b81c3/AIR+FORCE+1+%2707.png"
+  ],
+  "video_url": "https://shortformvideo.nike.com/a/videos/a91adb2a-77f4-4e15-811b-4847a3768ac0/video.mp4",
+  "category": {
+    "name": "Apparel & Accessories > Shoes"
+  },
+  "brand": "Nike",
+  "colors": [
+    "White/Pure Platinum/Team Red/Obsidian",
+    "Phantom/College Grey/Team Red/Black",
+    "Black/Black",
+    "Black/White",
+    "Flax/Gum Light Brown/Black/Wheat",
+    "Wolf Grey/Black/Wolf Grey",
+    "White/White"
+  ],
+  "variants": [
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "5"
+        }
+      ],
+      "sku": "31cc9d6b-b7ee-5493-83a8-bcd724aad543",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "6"
+        }
+      ],
+      "sku": "37613e4c-3a0a-599a-a300-3c01157bde6c",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "6.5"
+        }
+      ],
+      "sku": "0fd1d6cc-cf31-5c55-bbe8-155abada5b5f",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "7"
+        }
+      ],
+      "sku": "47182471-59bb-5a46-ae49-93211846cc39",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "7.5"
+        }
+      ],
+      "sku": "a7d434a4-d406-52ad-a5cd-a6d36148a661",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "8"
+        }
+      ],
+      "sku": "cb68abdd-c6a4-5a2c-9524-a33e804f8006",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "8.5"
+        }
+      ],
+      "sku": "f8d47fcb-1dca-508d-99b1-544c82c0e443",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "9"
+        }
+      ],
+      "sku": "d545edb1-7804-58bb-a1e2-8f26af2e87b9",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "9.5"
+        }
+      ],
+      "sku": "9803b2af-1f2e-5bb1-93e7-c936bf278c48",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "10"
+        }
+      ],
+      "sku": "f91ba3de-f4f7-5af5-ae35-21685c44688e",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "10.5"
+        }
+      ],
+      "sku": "0fb20bd4-a85f-549f-8c9a-634ffab9046a",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "11"
+        }
+      ],
+      "sku": "1e2f63bb-879a-51c2-99cc-28edd0324dbf",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "11.5"
+        }
+      ],
+      "sku": "5e4b1aa2-3d1d-56f4-b91c-edbc9c4e35dd",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "12"
+        }
+      ],
+      "sku": "ee7db343-3233-563e-9ed7-72bd0decae73",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "12.5"
+        }
+      ],
+      "sku": "f493e2d4-dfb5-55e8-9d73-4d5103403ee1",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "13"
+        }
+      ],
+      "sku": "b4d573d7-6a09-5f4d-b925-40ce38881a07",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    },
+    {
+      "options": [
+        {
+          "name": "Size",
+          "value": "14"
+        }
+      ],
+      "sku": "a0295659-bcc9-5aeb-bd3a-87fbfa88bd8a",
+      "price": {
+        "price": 76.99,
+        "currency": "GBP",
+        "compare_at_price": 109.99
+      },
+      "available": true,
+      "image_url": "https://static.nike.com/a/images/t_default/d6d2266d-0fa9-4f34-bf74-6528c9a0945f/NIKE+AIR+FORCE+1+%2707+LV8.png",
+      "url": "https://www.nike.com/gb/t/air-force-1-07-lv8-shoes-E5NnNyBr/IO2077-030"
+    }
+  ]
+}

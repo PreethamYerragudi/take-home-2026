@@ -1,0 +1,105 @@
+{
+  "name": "Pod 5",
+  "price": {
+    "price": 2799.0,
+    "currency": "USD",
+    "compare_at_price": 2999.0
+  },
+  "description": "The Pod cools, heats, and tracks your sleep, then adjusts automatically so you don't have to. Goes on any mattress like a cover. Each side controls independently.",
+  "key_features": [
+    "Dual-zone temperature control — each side independent",
+    "Cools to 55ºF and heats to 110ºF",
+    "Sleep & health tracking: heart rate, HRV, sleep phases, snoring",
+    "Vibration and thermal alarms for gentle wake-up",
+    "Cover is 1 inch thick and fits on top of existing mattresses",
+    "Available sizes with dimensions: Full 54\" x 75\", Queen 60\" x 80\", King 76\" x 80\", Cali King 72\" x 84\"",
+    "Optional Base elevates to reduce snoring and provide zero-gravity support",
+    "Powered by AI / Autopilot (Autopilot plan required for first 12 months)",
+    "30-night risk-free trial; free shipping and returns; 5-year warranty (with membership for extended warranty terms)"
+  ],
+  "image_urls": [
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1762291964/Pod5-Desktop_ca1n38.png",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1752004583/2_-_Core_-_Desktop_lgfxil.png",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1749817949/p5-4_xveiaa.png",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1746037078/pod-5-cover-buttons-control.jpg",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1749817963/p5-7_smmdwl.png",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto:eco,c_limit,w_1200/v1749817991/p5-8_iretyp.png",
+    "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1749817975/p5-10_k4sgrk.png"
+  ],
+  "video_url": null,
+  "category": {
+    "name": "Electronics > Electronics Accessories > Power > Power Control Units"
+  },
+  "brand": "Eight Sleep",
+  "colors": [],
+  "variants": [
+    {
+      "options": [
+        {
+          "name": "size",
+          "value": "Full"
+        }
+      ],
+      "sku": "POD5CORE-US-F",
+      "price": {
+        "price": 2599.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": null,
+      "image_url": "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1762291964/Pod5-Desktop_ca1n38.png",
+      "url": "https://www.eightsleep.com/product/pod-cover/"
+    },
+    {
+      "options": [
+        {
+          "name": "size",
+          "value": "Queen"
+        }
+      ],
+      "sku": "POD5CORE-US-Q",
+      "price": {
+        "price": 2799.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": null,
+      "image_url": "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1762291964/Pod5-Desktop_ca1n38.png",
+      "url": "https://www.eightsleep.com/product/pod-cover/"
+    },
+    {
+      "options": [
+        {
+          "name": "size",
+          "value": "King"
+        }
+      ],
+      "sku": "POD5CORE-US-K",
+      "price": {
+        "price": 2999.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": null,
+      "image_url": "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1762291964/Pod5-Desktop_ca1n38.png",
+      "url": "https://www.eightsleep.com/product/pod-cover/"
+    },
+    {
+      "options": [
+        {
+          "name": "size",
+          "value": "Cali King"
+        }
+      ],
+      "sku": "POD5CORE-US-CK",
+      "price": {
+        "price": 2999.0,
+        "currency": "USD",
+        "compare_at_price": null
+      },
+      "available": null,
+      "image_url": "https://res.cloudinary.com/eightsleep/image/upload/f_auto,q_auto,c_limit,w_1200/v1762291964/Pod5-Desktop_ca1n38.png",
+      "url": "https://www.eightsleep.com/product/pod-cover/"
+    }
+  ]
+}
